@@ -19,6 +19,7 @@ https://coinmarketcap.com/currencies/bitcoin/
 ## Dataset
 
 Process:<br>
+- Inspected the page to find the HTML code containing the information I was looking for 
 
 
 
