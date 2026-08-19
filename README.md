@@ -1,6 +1,7 @@
 # Web-Scraping-Bitcoin-tracker
 
 In this project, I scrape Coinmarketcap.com Bitcoin data to create an automatic tracker using Python 
+
 [Notebook Link](https://github.com/davidmaja/Web-Scraping-Bitcoin-tracker-/blob/4c5385b890a171a12f245541e586c45c704a26e1/WebScrap%20_%20Automatic%20Bitcoin%20Tracker%20.ipynb)
 
 ## Table of Contents
@@ -10,18 +11,17 @@ In this project, I scrape Coinmarketcap.com Bitcoin data to create an automatic 
 - Technologies Used
 - Installation
 
-Header
-Motivation: Why did you choose this dataset or problem?
-Objective: What question(s) are you trying to answer through this analysis?
-Learning Outcomes: What did you learn while working on this project?
+## Header
+
+Context:<br> Data for this project is pulled from -<br>
+https://coinmarketcap.com/currencies/bitcoin/
 
 ## Dataset
 
-Provide details about the dataset used:
-Source of the dataset (link if available)
-Size of the dataset (# of rows and columns)
-Key features/columns used
-Any preprocessing or cleaning steps
+Process:<br>
+
+
+
 <h2>Technologies Used</h2>
 <ul>
 <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
