@@ -1,7 +1,6 @@
 # Web-Scraping-Bitcoin-tracker
 
-A short description of your data analysis project: what dataset you used, why you analyzed it, and the problem or question you aimed to answer.
-
+In this project, I web-scrape 'https://coinmarketcap.com/currencies/bitcoin/'
 [Notebook Link]()
 
 ## Table of Contents
