@@ -52,10 +52,10 @@ Launch Jupyter Notebook
 jupyter notebook
 ​
 ## Usage
-Instructions for using the project:
-Open the main notebook (analysis.ipynb)
-Run each cell sequentially to reproduce the project
-Results will be generated automatically
+Instructions for using the project:<br>
+Open the main notebook (analysis.ipynb):<br>
+Run each cell sequentially to reproduce the project:<br>
+Results will be generated automatically:<br>
 
 
 
