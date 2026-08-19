@@ -36,13 +36,15 @@ Process:<br>
 </p>
 
 ## Installation
+
 Example of a Step-by-step instructions to set up the project locally:
 
 Clone the repository
-git clone <https://github.com/YOUR_USERNAME/YOUR_REPO.git>
+git clone <https://github.com/davidmaja/Web-Scraping-Bitcoin-tracker-.git>   
 
-Navigate to the project folder
-cd YOUR_REPO
+Navigate to the project folder - <br>
+Web-Scraping-Bitcoin-tracker-
+
 
 Install dependencies
 pip install -r requirements.txt
@@ -53,9 +55,9 @@ jupyter notebook
 ## Usage
 Instructions for using the project:
 Open the main notebook (analysis.ipynb)
-Run each cell sequentially to reproduce the analysis
-Visualizations and results will be generated automatically
-Include screenshots of your visualizations if available:
+Run each cell sequentially to reproduce the project
+Results will be generated automatically
+
 
 
 ## Analysis & Visualizations
