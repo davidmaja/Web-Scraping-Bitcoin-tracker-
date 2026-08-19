@@ -42,8 +42,7 @@ Example of a Step-by-step instructions to set up the project locally:
 Clone the repository
 git clone <https://github.com/davidmaja/Web-Scraping-Bitcoin-tracker-.git>   
 
-Navigate to the project folder - <br>
-Web-Scraping-Bitcoin-tracker-
+Navigate to the project folder: 'Web-Scraping-Bitcoin-tracker-'
 
 
 Install dependencies
