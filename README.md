@@ -19,13 +19,16 @@ https://coinmarketcap.com/currencies/bitcoin/
 ## Dataset
 
 Process:<br>
-- Inspected the page to find the HTML code containing the information I was looking for 
+- Inspected the page to find the HTML code containing the information I was looking for
+- Scraped the webpage for both name and price data
+- Created a table and added a timestamp tag dimension to track pull request history
+- Created a function and added an interval timer allowing for automatic pull requests  
 
 
 
 <h2>Technologies Used</h2>
 <ul>
-<li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
+<li><strong>Languages & Libraries:</strong> Python, Pandas</li>
 <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
 <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
 </ul>
