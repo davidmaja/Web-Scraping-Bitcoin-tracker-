@@ -1,6 +1,6 @@
 # Web-Scraping-Bitcoin-tracker
 
-In this project, I web-scrape 'https://coinmarketcap.com/currencies/bitcoin/'
+In this project, I scrape Coinmarketcap.com Bitcoin data to create an automatic tracker using Python 
 [Notebook Link]()
 
 ## Table of Contents
